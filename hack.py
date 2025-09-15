@@ -2,14 +2,9 @@ class BookManager:
     def __init__(self):
         self.books = set()
 
-    def add_book(self, title):
-        """Add a book title to the set."""
-        if title in self.books:
-            print(f'"{title}" already exists.')
-        else:
-            self.books.add(title)
-            print(f'"{title}" added.')
-
+    jhsgdwefh a yuf
+    eyfayegf98w uewf8wae
+    
     def remove_book(self, title):
         """Remove a book title from the set."""
         if title in self.books:
