@@ -2,9 +2,8 @@ class BookManager:
     def __init__(self):
         self.books = set()
 
-    jhsgdwefh a yuf
-    eyfayegf98w uewf8wae
-    
+ 
+
     def remove_book(self, title):
         """Remove a book title from the set."""
         if title in self.books:
